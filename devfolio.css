@@ -73,7 +73,6 @@ main {
 	gap: 2rem;
 	padding: 3rem 0;
 }
-
 .intro {
 	max-width: 720px;
 	padding-bottom: 3rem;
@@ -141,7 +140,6 @@ img {
 	max-width: 100%;
 	height: auto;
 }
-
 @media (min-width: 700px) {
 	h1 {
 		font-size: 4rem;
