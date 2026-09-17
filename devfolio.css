@@ -141,7 +141,6 @@ img {
 	max-width: 100%;
 	height: auto;
 }
-
 @media (min-width: 700px) {
 	h1 {
 		font-size: 4rem;
